@@ -1,0 +1,17 @@
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.Form1.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.Found_Password.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.JoinForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.MainForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.Properties.Resources.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.StageForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\tmddm\testDB.accdb
+C:\Users\tmddm\My_dream_is_owner.exe.config
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Release\My_dream_is_owner.pdb
+C:\Users\tmddm\My_dream_is_owner.exe
+C:\Users\tmddm\My_dream_is_owner.pdb

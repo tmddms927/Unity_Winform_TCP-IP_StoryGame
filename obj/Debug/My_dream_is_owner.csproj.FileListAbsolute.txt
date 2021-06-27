@@ -1,0 +1,148 @@
+C:\Users\adore\source\repos\App\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\adore\source\repos\App\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\adore\source\repos\App\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.LoginForm.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\adore\source\repos\App\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\adore\source\repos\App\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.LoginForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\adore\OneDrive\바탕 화면\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.LoginForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 미완성2\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\수정 미완성\My_dream_is_owner 미완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.SettingForm.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\adore\OneDrive\바탕 화면\공모전\1030-726\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\bin\Debug\testDB.accdb
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\bin\Debug\My_dream_is_owner.pdb
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Found_Password.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\게임 연결 완성\My_dream_is_owner\obj\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\bin\Debug\testDB.accdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\bin\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\bin\Debug\My_dream_is_owner.pdb
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.csprojAssemblyReference.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.Found_Password.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.exe
+C:\Users\Gwon Ji Hyun\Desktop\My_dream_is_owner 완성\obj\Debug\My_dream_is_owner.pdb
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\bin\Debug\testDB.accdb
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\bin\Debug\My_dream_is_owner.exe.config
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\bin\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\bin\Debug\My_dream_is_owner.pdb
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.csproj.ResolveComReference.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.Form1.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.Found_Password.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.JoinForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.MainForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.Properties.Resources.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.StageForm.resources
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.csproj.GenerateResource.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.csproj.CoreCompileInputs.cache
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.exe
+C:\Users\tmddm\OneDrive\바탕 화면\My_dream_is_owner 완성 (2)\obj\Debug\My_dream_is_owner.pdb
